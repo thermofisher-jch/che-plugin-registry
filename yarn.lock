@@ -896,7 +896,7 @@ __metadata:
     "@types/fs-extra": ^9.0.13
     "@types/glob": ^8.0.0
     "@types/jest": ^27.5.0
-    "@types/js-yaml": ^4.0.3
+    "@types/js-yaml": ^4.0.5
     "@types/semver": ^7.3.12
     "@typescript-eslint/eslint-plugin": ^5.41.0
     "@typescript-eslint/parser": ^5.41.0
@@ -1571,13 +1571,6 @@ __metadata:
     jest-matcher-utils: ^27.0.0
     pretty-format: ^27.0.0
   checksum: ca09ac3a17972e18683c57b681a6866c7a56c67f429810ece00425d948da62f207d271becb5cc759da3630f120596ec3c8e0ceb0eecefbe26daffba168b82879
-  languageName: node
-  linkType: hard
-
-"@types/js-yaml@npm:^4.0.3":
-  version: 4.0.3
-  resolution: "@types/js-yaml@npm:4.0.3"
-  checksum: 4be74c029f3fe4ab01f382481521c15bc79c96589747f588f8d3b92e97b8e04ffbe208451d24c99fd289593ff5325710eb83d267c8f2449d3248299f909003d7
   languageName: node
   linkType: hard
 
